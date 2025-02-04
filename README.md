@@ -1,9 +1,3 @@
-# Platform-based-programming-final-project
-
-Below is an example of API documentation written in Markdown. This documentation includes an introduction to the project and a detailed description of all 20 endpoints, including the HTTP method, endpoint URL, parameters, request body (if applicable), and expected responses.
-
----
-
 # Student Management API Documentation
 
 ## Introduction
